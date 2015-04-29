@@ -1,0 +1,13 @@
+{
+    "name": "alessandrosales/form-email",
+    "description": "App exemplo para formulário de contato php",
+    "authors": [
+        {
+            "name": "Alessandro Sales",
+            "email": "contato@alessandrosales.com.br"
+        }
+    ],
+    "require": {
+      "phpmailer/phpmailer": "dev-master"
+    }
+}

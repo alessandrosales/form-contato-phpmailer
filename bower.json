@@ -1,0 +1,21 @@
+{
+  "name": "form-email",
+  "version": "0.0.0",
+  "authors": [
+    "Alessandro Sales <contato@alessandrosales.com.br>"
+  ],
+  "description": "App exemplo para formulário de contato php",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "www.alessandrosales.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
